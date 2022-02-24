@@ -1,0 +1,84 @@
+C:\Users\Ahnaf\Desktop\CRUD_ADO.Net_jQuery_MVC\CRUD_ADO.Net_jQuery_MVC\bin\CRUD_ADONet_jQuery_MVC.dll.config
+C:\Users\Ahnaf\Desktop\CRUD_ADO.Net_jQuery_MVC\CRUD_ADO.Net_jQuery_MVC\bin\CRUD_ADONet_jQuery_MVC.dll
+C:\Users\Ahnaf\Desktop\CRUD_ADO.Net_jQuery_MVC\CRUD_ADO.Net_jQuery_MVC\bin\CRUD_ADONet_jQuery_MVC.pdb
+C:\Users\Ahnaf\Desktop\CRUD_ADO.Net_jQuery_MVC\CRUD_ADO.Net_jQuery_MVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Ahnaf\Desktop\CRUD_ADO.Net_jQuery_MVC\CRUD_ADO.Net_jQuery_MVC\bin\System.Web.Helpers.dll
+C:\Users\Ahnaf\Desktop\CRUD_ADO.Net_jQuery_MVC\CRUD_ADO.Net_jQuery_MVC\bin\System.Web.Mvc.dll
+C:\Users\Ahnaf\Desktop\CRUD_ADO.Net_jQuery_MVC\CRUD_ADO.Net_jQuery_MVC\bin\System.Web.Razor.dll
+C:\Users\Ahnaf\Desktop\CRUD_ADO.Net_jQuery_MVC\CRUD_ADO.Net_jQuery_MVC\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Ahnaf\Desktop\CRUD_ADO.Net_jQuery_MVC\CRUD_ADO.Net_jQuery_MVC\bin\System.Web.Webpages.dll
+C:\Users\Ahnaf\Desktop\CRUD_ADO.Net_jQuery_MVC\CRUD_ADO.Net_jQuery_MVC\bin\System.Web.Webpages.Razor.dll
+C:\Users\Ahnaf\Desktop\CRUD_ADO.Net_jQuery_MVC\CRUD_ADO.Net_jQuery_MVC\bin\System.Web.Razor.xml
+C:\Users\Ahnaf\Desktop\CRUD_ADO.Net_jQuery_MVC\CRUD_ADO.Net_jQuery_MVC\bin\System.Web.Webpages.xml
+C:\Users\Ahnaf\Desktop\CRUD_ADO.Net_jQuery_MVC\CRUD_ADO.Net_jQuery_MVC\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Ahnaf\Desktop\CRUD_ADO.Net_jQuery_MVC\CRUD_ADO.Net_jQuery_MVC\bin\System.Web.Webpages.Razor.xml
+C:\Users\Ahnaf\Desktop\CRUD_ADO.Net_jQuery_MVC\CRUD_ADO.Net_jQuery_MVC\bin\System.Web.Helpers.xml
+C:\Users\Ahnaf\Desktop\CRUD_ADO.Net_jQuery_MVC\CRUD_ADO.Net_jQuery_MVC\bin\System.Web.Mvc.xml
+C:\Users\Ahnaf\Desktop\CRUD_ADO.Net_jQuery_MVC\CRUD_ADO.Net_jQuery_MVC\obj\Debug\CRUD_ADONet_jQuery_MVC.csproj.CoreCompileInputs.cache
+C:\Users\Ahnaf\Desktop\CRUD_ADO.Net_jQuery_MVC\CRUD_ADO.Net_jQuery_MVC\obj\Debug\CRUD_ADONet_jQuery_MVC.dll
+C:\Users\Ahnaf\Desktop\CRUD_ADO.Net_jQuery_MVC\CRUD_ADO.Net_jQuery_MVC\obj\Debug\CRUD_ADONet_jQuery_MVC.pdb
+C:\Users\Ahnaf\Desktop\CRUD_ADO.Net_jQuery_MVC\CRUD_ADO.Net_jQuery_MVC\obj\Debug\CRUD_ADONet_jQuery_MVC.csproj.AssemblyReference.cache
+C:\Users\Ahnaf\Desktop\ASP.NET CORE WEB API (CRUD OPS)\CRUD_ADO.Net_jQuery_MVC\CRUD_ADO.Net_jQuery_MVC\bin\CRUD_ADONet_jQuery_MVC.dll.config
+C:\Users\Ahnaf\Desktop\ASP.NET CORE WEB API (CRUD OPS)\CRUD_ADO.Net_jQuery_MVC\CRUD_ADO.Net_jQuery_MVC\bin\CRUD_ADONet_jQuery_MVC.dll
+C:\Users\Ahnaf\Desktop\ASP.NET CORE WEB API (CRUD OPS)\CRUD_ADO.Net_jQuery_MVC\CRUD_ADO.Net_jQuery_MVC\bin\CRUD_ADONet_jQuery_MVC.pdb
+C:\Users\Ahnaf\Desktop\ASP.NET CORE WEB API (CRUD OPS)\CRUD_ADO.Net_jQuery_MVC\CRUD_ADO.Net_jQuery_MVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Ahnaf\Desktop\ASP.NET CORE WEB API (CRUD OPS)\CRUD_ADO.Net_jQuery_MVC\CRUD_ADO.Net_jQuery_MVC\bin\System.Web.Helpers.dll
+C:\Users\Ahnaf\Desktop\ASP.NET CORE WEB API (CRUD OPS)\CRUD_ADO.Net_jQuery_MVC\CRUD_ADO.Net_jQuery_MVC\bin\System.Web.Mvc.dll
+C:\Users\Ahnaf\Desktop\ASP.NET CORE WEB API (CRUD OPS)\CRUD_ADO.Net_jQuery_MVC\CRUD_ADO.Net_jQuery_MVC\bin\System.Web.Razor.dll
+C:\Users\Ahnaf\Desktop\ASP.NET CORE WEB API (CRUD OPS)\CRUD_ADO.Net_jQuery_MVC\CRUD_ADO.Net_jQuery_MVC\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Ahnaf\Desktop\ASP.NET CORE WEB API (CRUD OPS)\CRUD_ADO.Net_jQuery_MVC\CRUD_ADO.Net_jQuery_MVC\bin\System.Web.Webpages.dll
+C:\Users\Ahnaf\Desktop\ASP.NET CORE WEB API (CRUD OPS)\CRUD_ADO.Net_jQuery_MVC\CRUD_ADO.Net_jQuery_MVC\bin\System.Web.Webpages.Razor.dll
+C:\Users\Ahnaf\Desktop\ASP.NET CORE WEB API (CRUD OPS)\CRUD_ADO.Net_jQuery_MVC\CRUD_ADO.Net_jQuery_MVC\bin\System.Web.Razor.xml
+C:\Users\Ahnaf\Desktop\ASP.NET CORE WEB API (CRUD OPS)\CRUD_ADO.Net_jQuery_MVC\CRUD_ADO.Net_jQuery_MVC\bin\System.Web.Webpages.xml
+C:\Users\Ahnaf\Desktop\ASP.NET CORE WEB API (CRUD OPS)\CRUD_ADO.Net_jQuery_MVC\CRUD_ADO.Net_jQuery_MVC\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Ahnaf\Desktop\ASP.NET CORE WEB API (CRUD OPS)\CRUD_ADO.Net_jQuery_MVC\CRUD_ADO.Net_jQuery_MVC\bin\System.Web.Webpages.Razor.xml
+C:\Users\Ahnaf\Desktop\ASP.NET CORE WEB API (CRUD OPS)\CRUD_ADO.Net_jQuery_MVC\CRUD_ADO.Net_jQuery_MVC\bin\System.Web.Helpers.xml
+C:\Users\Ahnaf\Desktop\ASP.NET CORE WEB API (CRUD OPS)\CRUD_ADO.Net_jQuery_MVC\CRUD_ADO.Net_jQuery_MVC\bin\System.Web.Mvc.xml
+C:\Users\Ahnaf\Desktop\ASP.NET CORE WEB API (CRUD OPS)\CRUD_ADO.Net_jQuery_MVC\CRUD_ADO.Net_jQuery_MVC\obj\Debug\CRUD_ADONet_jQuery_MVC.csproj.CoreCompileInputs.cache
+C:\Users\Ahnaf\Desktop\ASP.NET CORE WEB API (CRUD OPS)\CRUD_ADO.Net_jQuery_MVC\CRUD_ADO.Net_jQuery_MVC\obj\Debug\CRUD_ADONet_jQuery_MVC.csproj.CopyComplete
+C:\Users\Ahnaf\Desktop\ASP.NET CORE WEB API (CRUD OPS)\CRUD_ADO.Net_jQuery_MVC\CRUD_ADO.Net_jQuery_MVC\obj\Debug\CRUD_ADONet_jQuery_MVC.dll
+C:\Users\Ahnaf\Desktop\ASP.NET CORE WEB API (CRUD OPS)\CRUD_ADO.Net_jQuery_MVC\CRUD_ADO.Net_jQuery_MVC\obj\Debug\CRUD_ADONet_jQuery_MVC.pdb
+C:\Users\Ahnaf\Desktop\ASP.NET CORE WEB API (CRUD OPS)\CRUD_ADO.Net_jQuery_MVC\CRUD_ADO.Net_jQuery_MVC\obj\Debug\CRUD_ADONet_jQuery_MVC.csproj.AssemblyReference.cache
+D:\.NET CORE MVC\CRUD_ADO.Net_jQuery_MVC\CRUD_ADO.Net_jQuery_MVC\bin\CRUD_ADONet_jQuery_MVC.dll.config
+D:\.NET CORE MVC\CRUD_ADO.Net_jQuery_MVC\CRUD_ADO.Net_jQuery_MVC\bin\CRUD_ADONet_jQuery_MVC.dll
+D:\.NET CORE MVC\CRUD_ADO.Net_jQuery_MVC\CRUD_ADO.Net_jQuery_MVC\bin\CRUD_ADONet_jQuery_MVC.pdb
+D:\.NET CORE MVC\CRUD_ADO.Net_jQuery_MVC\CRUD_ADO.Net_jQuery_MVC\bin\Microsoft.Web.Infrastructure.dll
+D:\.NET CORE MVC\CRUD_ADO.Net_jQuery_MVC\CRUD_ADO.Net_jQuery_MVC\bin\System.Web.Helpers.dll
+D:\.NET CORE MVC\CRUD_ADO.Net_jQuery_MVC\CRUD_ADO.Net_jQuery_MVC\bin\System.Web.Mvc.dll
+D:\.NET CORE MVC\CRUD_ADO.Net_jQuery_MVC\CRUD_ADO.Net_jQuery_MVC\bin\System.Web.Razor.dll
+D:\.NET CORE MVC\CRUD_ADO.Net_jQuery_MVC\CRUD_ADO.Net_jQuery_MVC\bin\System.Web.Webpages.Deployment.dll
+D:\.NET CORE MVC\CRUD_ADO.Net_jQuery_MVC\CRUD_ADO.Net_jQuery_MVC\bin\System.Web.Webpages.dll
+D:\.NET CORE MVC\CRUD_ADO.Net_jQuery_MVC\CRUD_ADO.Net_jQuery_MVC\bin\System.Web.Webpages.Razor.dll
+D:\.NET CORE MVC\CRUD_ADO.Net_jQuery_MVC\CRUD_ADO.Net_jQuery_MVC\bin\System.Web.Razor.xml
+D:\.NET CORE MVC\CRUD_ADO.Net_jQuery_MVC\CRUD_ADO.Net_jQuery_MVC\bin\System.Web.Webpages.xml
+D:\.NET CORE MVC\CRUD_ADO.Net_jQuery_MVC\CRUD_ADO.Net_jQuery_MVC\bin\System.Web.Webpages.Deployment.xml
+D:\.NET CORE MVC\CRUD_ADO.Net_jQuery_MVC\CRUD_ADO.Net_jQuery_MVC\bin\System.Web.Webpages.Razor.xml
+D:\.NET CORE MVC\CRUD_ADO.Net_jQuery_MVC\CRUD_ADO.Net_jQuery_MVC\bin\System.Web.Helpers.xml
+D:\.NET CORE MVC\CRUD_ADO.Net_jQuery_MVC\CRUD_ADO.Net_jQuery_MVC\bin\System.Web.Mvc.xml
+D:\.NET CORE MVC\CRUD_ADO.Net_jQuery_MVC\CRUD_ADO.Net_jQuery_MVC\obj\Debug\CRUD_ADONet_jQuery_MVC.csproj.CoreCompileInputs.cache
+D:\.NET CORE MVC\CRUD_ADO.Net_jQuery_MVC\CRUD_ADO.Net_jQuery_MVC\obj\Debug\CRUD_ADONet_jQuery_MVC.csproj.CopyComplete
+D:\.NET CORE MVC\CRUD_ADO.Net_jQuery_MVC\CRUD_ADO.Net_jQuery_MVC\obj\Debug\CRUD_ADONet_jQuery_MVC.dll
+D:\.NET CORE MVC\CRUD_ADO.Net_jQuery_MVC\CRUD_ADO.Net_jQuery_MVC\obj\Debug\CRUD_ADONet_jQuery_MVC.pdb
+D:\.NET CORE MVC\CRUD_ADO.Net_jQuery_MVC\CRUD_ADO.Net_jQuery_MVC\obj\Debug\CRUD_ADONet_jQuery_MVC.csproj.AssemblyReference.cache
+D:\Successful Project\.NET CORE MVC\CRUD_ADO.Net_jQuery_MVC\CRUD_ADO.Net_jQuery_MVC\bin\CRUD_ADONet_jQuery_MVC.dll.config
+D:\Successful Project\.NET CORE MVC\CRUD_ADO.Net_jQuery_MVC\CRUD_ADO.Net_jQuery_MVC\bin\CRUD_ADONet_jQuery_MVC.dll
+D:\Successful Project\.NET CORE MVC\CRUD_ADO.Net_jQuery_MVC\CRUD_ADO.Net_jQuery_MVC\bin\CRUD_ADONet_jQuery_MVC.pdb
+D:\Successful Project\.NET CORE MVC\CRUD_ADO.Net_jQuery_MVC\CRUD_ADO.Net_jQuery_MVC\bin\Microsoft.Web.Infrastructure.dll
+D:\Successful Project\.NET CORE MVC\CRUD_ADO.Net_jQuery_MVC\CRUD_ADO.Net_jQuery_MVC\bin\System.Web.Helpers.dll
+D:\Successful Project\.NET CORE MVC\CRUD_ADO.Net_jQuery_MVC\CRUD_ADO.Net_jQuery_MVC\bin\System.Web.Mvc.dll
+D:\Successful Project\.NET CORE MVC\CRUD_ADO.Net_jQuery_MVC\CRUD_ADO.Net_jQuery_MVC\bin\System.Web.Razor.dll
+D:\Successful Project\.NET CORE MVC\CRUD_ADO.Net_jQuery_MVC\CRUD_ADO.Net_jQuery_MVC\bin\System.Web.Webpages.Deployment.dll
+D:\Successful Project\.NET CORE MVC\CRUD_ADO.Net_jQuery_MVC\CRUD_ADO.Net_jQuery_MVC\bin\System.Web.Webpages.dll
+D:\Successful Project\.NET CORE MVC\CRUD_ADO.Net_jQuery_MVC\CRUD_ADO.Net_jQuery_MVC\bin\System.Web.Webpages.Razor.dll
+D:\Successful Project\.NET CORE MVC\CRUD_ADO.Net_jQuery_MVC\CRUD_ADO.Net_jQuery_MVC\bin\System.Web.Razor.xml
+D:\Successful Project\.NET CORE MVC\CRUD_ADO.Net_jQuery_MVC\CRUD_ADO.Net_jQuery_MVC\bin\System.Web.Webpages.xml
+D:\Successful Project\.NET CORE MVC\CRUD_ADO.Net_jQuery_MVC\CRUD_ADO.Net_jQuery_MVC\bin\System.Web.Webpages.Deployment.xml
+D:\Successful Project\.NET CORE MVC\CRUD_ADO.Net_jQuery_MVC\CRUD_ADO.Net_jQuery_MVC\bin\System.Web.Webpages.Razor.xml
+D:\Successful Project\.NET CORE MVC\CRUD_ADO.Net_jQuery_MVC\CRUD_ADO.Net_jQuery_MVC\bin\System.Web.Helpers.xml
+D:\Successful Project\.NET CORE MVC\CRUD_ADO.Net_jQuery_MVC\CRUD_ADO.Net_jQuery_MVC\bin\System.Web.Mvc.xml
+D:\Successful Project\.NET CORE MVC\CRUD_ADO.Net_jQuery_MVC\CRUD_ADO.Net_jQuery_MVC\obj\Debug\CRUD_ADONet_jQuery_MVC.csproj.CoreCompileInputs.cache
+D:\Successful Project\.NET CORE MVC\CRUD_ADO.Net_jQuery_MVC\CRUD_ADO.Net_jQuery_MVC\obj\Debug\CRUD_ADONet_jQuery_MVC.dll
+D:\Successful Project\.NET CORE MVC\CRUD_ADO.Net_jQuery_MVC\CRUD_ADO.Net_jQuery_MVC\obj\Debug\CRUD_ADONet_jQuery_MVC.pdb
+D:\Successful Project\.NET CORE MVC\CRUD_ADO.Net_jQuery_MVC\CRUD_ADO.Net_jQuery_MVC\obj\Debug\CRUD_ADONet_jQuery_MVC.csproj.AssemblyReference.cache
+C:\Users\Ahnaf\Desktop\CRUD_ADO.Net_jQuery_MVC\CRUD_ADO.Net_jQuery_MVC\bin\Newtonsoft.Json.dll
+C:\Users\Ahnaf\Desktop\CRUD_ADO.Net_jQuery_MVC\CRUD_ADO.Net_jQuery_MVC\bin\Newtonsoft.Json.xml
